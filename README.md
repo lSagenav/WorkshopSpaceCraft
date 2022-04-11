@@ -8,7 +8,7 @@
  
  ### Ejecución
 
-- Java versión "17.0.2" 2022-40-10 LTS
+- Java versión "17.0.2" 2022-04-10 LTS
 - Esta codificado con Source JDK 17, profile full JRE Y Enconding UTF-8.
 - El proyecto se desaqrrollo en el IntelliJ IDEA
 
